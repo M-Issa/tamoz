@@ -1,6 +1,6 @@
 # tamoz
 
-A new Flutter project.
+إضافة نبات
 
 ## Getting Started
 
