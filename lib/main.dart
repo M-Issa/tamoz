@@ -99,6 +99,7 @@ class _PlantInputFormState extends State<PlantInputForm> {
       _ageController.clear();
     }
   }
+  git push -u origin main
 
   @override
   Widget build(BuildContext context) {
